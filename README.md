@@ -114,3 +114,10 @@
 1. rules中的loader执行顺序，数组从右往左一次执行
 
 2. rules中的oneOf，匹配该数组中所有项，只执行匹配到的第一个满足文件后缀条件的，如果都没有匹配到，执行最后一项
+
+
+## 参考
+
+* [webpack详解-腾讯IVWEB团队](https://juejin.im/post/5aa3d2056fb9a028c36868aa)
+
+* [Webpack基本架构浅析](https://zhuanlan.zhihu.com/p/36445010)
